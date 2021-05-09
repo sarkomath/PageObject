@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/lphga3qo94buqxd3?svg=true)](https://ci.appveyor.com/project/sarkomath/card-delivery)
+[![Build status](https://ci.appveyor.com/api/projects/status/l6dut6052u2vvqmr?svg=true)](https://ci.appveyor.com/project/sarkomath/pageobject)
